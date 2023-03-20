@@ -1,0 +1,2 @@
+gcc dec_to_hex.c dth_funcs.c -o dec_to_hex.exe
+.\dec_to_hex.exe
