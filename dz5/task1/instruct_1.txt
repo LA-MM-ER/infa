@@ -1,0 +1,4 @@
+task 1:
+gcc find_point.c one_func.c -o result.exe
+.\result.exe
+
