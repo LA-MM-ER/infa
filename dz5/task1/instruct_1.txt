@@ -1,4 +1,6 @@
+Так как в этом номере не было требования делать CMake, то я и не делал
 task 1:
+
 gcc find_point.c one_func.c -o result.exe
 .\result.exe
 
