@@ -1,1 +1,11 @@
+gcc countsort.c -o countsort 
+.\countsort
 
+gcc merge.c -o merge
+.\merge 
+
+gcc qsort.c -o qsort
+.\qsort 
+
+gcc swap.c -o swap 
+.\swap
