@@ -9,3 +9,6 @@ gcc qsort.c -o qsort
 
 gcc swap.c -o swap 
 .\swap
+
+gcc new_bin.c -o new_bin
+.\new_bin
