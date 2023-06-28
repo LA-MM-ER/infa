@@ -1,0 +1,5 @@
+gcc main.c tree.c -o ans
+вывести по порядку
+./ans text.txt -o ASC
+вывести в обратном порядке
+./ans text.txt -o DESC
