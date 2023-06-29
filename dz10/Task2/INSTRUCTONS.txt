@@ -1,0 +1,2 @@
+gcc main.c funcs.c -o ans
+./ans
